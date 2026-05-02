@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Mosh Hestana |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 02, 2026 |
+| Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-hestana/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
