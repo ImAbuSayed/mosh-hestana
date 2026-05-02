@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Mosh Hestana |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 02, 2026 |
+| Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-hestana/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي نور قلبي في ظلام الليل
+> أنت روحي وأنت عمري وهذا الدليل
+> خذني في أحضانك وانسى كل الويل
+> في عيونك أرى الدنيا وحلمي الجميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
