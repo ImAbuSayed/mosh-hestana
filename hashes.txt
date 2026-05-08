@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mosh Hestana
+
+This log tracks the cryptographic history and versioning for the song **Mosh Hestana** (mosh-hestana).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T00:10:55.958369 | `v1` | `20f8ac112459b854c9acf9dc81b30c1772066c6d6c2f1cfdb22a51caac2b79b4` | `057377e5c03262c47a9bd5422535407f3a6d1f1a57d00356de7a8022a3744c4d` | `2026-05-09_mosh-hestana-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
